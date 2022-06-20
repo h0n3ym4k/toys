@@ -2,7 +2,7 @@
 
 [SuperScaleSystems](superscale-systems.md)
 
-## URL at <https://toys.superscale.systems> - the site is only reacheable monthly at every first weekend Saturday 8pm till the coming Monday 8pm
+## URL at <https://superscalesystems.ftp.sh>
 
 1. Pls read through and thorough understandably.
 
