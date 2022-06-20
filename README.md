@@ -2,7 +2,7 @@
 
 [SuperScaleSystems](superscale-systems.md)
 
-## URL at <https://superscalesystems.ftp.sh>
+## URL at <http://superscalesystems.ftp.sh>
 
 1. Pls read through and thorough understandably.
 
